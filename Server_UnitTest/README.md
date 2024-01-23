@@ -62,3 +62,14 @@ This project is licensed under the CCtech License.
 
 ## Output
 
+![NoServer](https://github.com/Coderanildangi/Dashboard-PC-Usage-Unit-Test/assets/149321466/7445b61e-543f-468d-abb6-f382d27bd011)
+
+![ServerYes](https://github.com/Coderanildangi/Dashboard-PC-Usage-Unit-Test/assets/149321466/8fbfc37c-283f-48b7-8534-9d359a40cbbb)
+
+![ServerAllPass](https://github.com/Coderanildangi/Dashboard-PC-Usage-Unit-Test/assets/149321466/8f714419-b21f-40f8-918f-eaf997990928)
+
+![ServerDatabaseFail](https://github.com/Coderanildangi/Dashboard-PC-Usage-Unit-Test/assets/149321466/2f84f662-b01e-40e9-9f1c-999d845ee475)
+
+
+
+
